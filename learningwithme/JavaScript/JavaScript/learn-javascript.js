@@ -5,4 +5,9 @@ var = Variable
 let = Let
 const = Constant
 
-# 2. 
+# 2. Kiểu Nguyên thủy (Primitive Data Types - 7 loại)
+Number = Số
+String = Chuỗi
+Boolean = Logic
+Undefined = Chưa xác định
+Null = Rỗng
