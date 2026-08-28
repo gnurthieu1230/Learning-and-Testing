@@ -24,4 +24,10 @@ unsigned = Unsigned
 signed = Signed
 short / long = Short / Long Integer
 
+# 5. Nhập / Xuất dữ liệu cơ bản (Basic I/O) [Dùng thư viện upstream]
+cin = Character Input
+cout = Character Output
+cerr = Character Error
+endl = End Line
+
 
