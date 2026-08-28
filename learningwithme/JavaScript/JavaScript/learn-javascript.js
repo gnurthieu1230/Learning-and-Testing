@@ -11,3 +11,5 @@ String = Chuỗi
 Boolean = Logic
 Undefined = Chưa xác định
 Null = Rỗng
+Symbol = Biểu tượng
+BigInt = Số nguyên lớn
