@@ -50,3 +50,11 @@ iter() = iterator
 next() = next
 eval() = evaluate
 exec() = execute
+
+# 7. Hàm Quản lý và Xuất/Nhập file
+open() = open
+read() = read
+readline / readlines = Read Line / Read Lines
+write / writelines = Write / Write Lines
+input() = input
+print() = print
