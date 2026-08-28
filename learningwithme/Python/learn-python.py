@@ -58,3 +58,5 @@ readline / readlines = Read Line / Read Lines
 write / writelines = Write / Write Lines
 input() = input
 print() = print
+
+# 8. Hàm thao tác với thuộc tính và Phương thức (Advance)
