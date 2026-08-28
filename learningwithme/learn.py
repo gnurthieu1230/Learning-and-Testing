@@ -1,4 +1,4 @@
-u### tên biến và hàm viết tắt và đầy đủ trong ngôn ngữ lập trình python ###
+### tên biến và hàm viết tắt và đầy đủ trong ngôn ngữ lập trình python ###
 
 var = variable
 int = integer
@@ -30,6 +30,11 @@ pow() = power
 divmods() = division & modulus
 ascii() = ASCII
 
+--> hàm kiểm tra & thao tác trên đối tượng:
+isinstance = is instance
+issubclass = is subclass
+getattr() = get attribute
+setattr() = set attribute
 
 
 
