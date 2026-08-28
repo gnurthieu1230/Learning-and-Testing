@@ -31,4 +31,9 @@ struct = Structure
 enum = Enumeration
 match = Pattern Matching
 if let / while let = Conditional Matching
+loop = Infinite Loop
+
+# 6. Kiểu an toàn bộ nhớ (Option & Result - Thay thế cho NULL và Exception)
+Option<T> --> Trường hợp: Some(value) / None
+Result<T,E> --> Trường hợp: OK(value) / err(error)
 
