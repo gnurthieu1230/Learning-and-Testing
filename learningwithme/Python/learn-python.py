@@ -118,3 +118,11 @@ not in = Membership (Not In)
 << = Bitwise Left Shift
 >> = Bitwise Right Shift
 
+# 15. cú pháp đặc biệt (Pythonic Syntax)
+[x for x in ...] = List Comprehension
+lambada = Lambada Function
+with...as = Context Manager
+*agrs = Arguments
+**kwagrs = Keyword Arguments
+
+
