@@ -43,6 +43,12 @@ bin() = binary
 hex() = hexadecimal
 Oct() = octal
 
+--> hàm liên quan đến vòng lặp & tập hợp
+iter() = iterator
+next() = next
+dict() = dictionary
+eval() = evaluate
+exec() = excute
 
 
 
