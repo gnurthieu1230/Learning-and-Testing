@@ -32,3 +32,8 @@ Promise = Promise
 async = Asynchronous
 await = Await
 
+# 6. Các phương thức biến tấu Mảng phổ biến (Array Methods)
+map() = Map
+filter() = Filter
+reduce() = Reduce
+forEach() = For Each
