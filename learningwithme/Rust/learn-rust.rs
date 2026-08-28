@@ -24,3 +24,11 @@ println! = Print Line (Macro)
 &mut = Mutable Reference
 move = Move
 ' = Lifetime Specifier
+ref = Reference Binding
+
+# 5. Cấu trúc dữ liệu & Kiểm soát luồng (Struct, Enum & Control Flow)
+struct = Structure
+enum = Enumeration
+match = Pattern Matching
+if let / while let = Conditional Matching
+
