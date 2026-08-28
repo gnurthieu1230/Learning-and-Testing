@@ -20,6 +20,10 @@ elif = else + if
 abs() = absolute
 len() = length
 inter() / next() = iterator
+max() / min() = Maximum / Minimum
+repr() = representation
+enum = enumeration
+
 
 
 
