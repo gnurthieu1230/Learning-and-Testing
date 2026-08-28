@@ -15,6 +15,7 @@ RSI = Register Source Index
 RDI = Register Destination Index
 RBP = Register Base Pointer
 RSP = Register Stack Pointer
+RIP = Register Instruction Pointer
 R8 --> R15
 
 # 3. Các lệnh thao tác dữ liệu cơ bản (Basic Instructions - Thay thế cho Hàm)
