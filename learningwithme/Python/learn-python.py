@@ -60,3 +60,7 @@ input() = input
 print() = print
 
 # 8. Hàm thao tác với thuộc tính và Phương thức (Advance)
+callable() = callable
+classmethod() = Class Method
+staticmethod() = Static Method
+super() = Super Class
