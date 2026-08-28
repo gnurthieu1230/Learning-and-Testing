@@ -73,3 +73,12 @@ RDTSC = ReaD Time-Stamp Counter
 LOCK = Lock Bus Prefix
 CLI / STI = Clear / Set Interrupt Flag
 HLT = HaL****T
+
+# 10. Khái niệm Khung bộ nhớ Hàm (Stack Frame)
+push rbp        ; Lưu đáy Stack của hàm cũ
+mov rbp, rsp    ; Tạo đáy Stack mới cho hàm hiện tại
+sub rsp, 32     ; Cấp phát 32 bytes bộ nhớ cho các biến cục bộ
+...             ; Thực thi hàm
+mov rsp, rbp    ; Tải lại đỉnh Stack cũ (xóa biến cục bộ)
+pop rbp         ; Khôi phục đáy Stack của hàm cũ
+ret             ; Trở về nơi gọi
