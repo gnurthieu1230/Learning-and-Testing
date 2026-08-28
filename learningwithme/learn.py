@@ -38,6 +38,12 @@ setattr() = set attribute
 delattr() = delete attribute
 hasattr() = has attribute
 
+--> hàm chuyển đổi kiểu dữ liệu & mã hóa
+bin() = binary
+hex() = hexadecimal
+Oct() = octal
+
+
 
 
 
