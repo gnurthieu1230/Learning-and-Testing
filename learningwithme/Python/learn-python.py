@@ -64,3 +64,10 @@ callable() = callable
 classmethod() = Class Method
 staticmethod() = Static Method
 super() = Super Class
+
+# 9. từ khóa viết tắt điều khiển & cấu trúc
+pass = Pass
+break = Break
+cont / continue = Continue
+del = Delete
+assert = Assert
