@@ -35,4 +35,13 @@ namespace = Name Space
 using = Using
 :: = Scope Resolution Operators
 
+# 7. Cấu trúc điều khiển & Vòng lặp (Control Flow & Loops)
+if / else = If / Else
+switch / case = Switch / Case
+default = Default
+for / while / do = For / While / Do-While
+break / continue = Break / Continue
+goto = Goto
+
+
 
