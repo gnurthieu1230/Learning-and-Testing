@@ -98,5 +98,12 @@ raise = Raise
 *= = Multiply Equals
 /= = Divide Equals
 //= = Floor Divide Equals
+%= = Modulo Equals
+**= = Exponent Equals
 
+# 13. Toán tử Logic & Định danh (Logical, Identity & Membership Operators)
+and = Logical AND
+or = Logical OR
+not = Logical NOT
+is = Identity (is)
 
