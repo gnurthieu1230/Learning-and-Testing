@@ -27,3 +27,8 @@ type of = Type of
 == / != = Loose Equality
 arrow function = () => {}
 
+# 5. Lập trình Bất đồng bộ (Asynchronous JS - "Linh hồn" của Web)
+Promise = Promise
+async = Asynchronous
+await = Await
+
