@@ -50,4 +50,9 @@ self / Self = Self
 panic! = Panic Macro
 async / .await = Async / Await
 
+# 9. Ép kiểu & Lập trình cấp thấp (Casting & Low-level)
+as = As
+unsafe = Unsafe
+where = Where Claude
+
 
