@@ -21,3 +21,9 @@ Function = Hàm
 Date = Ngày tháng
 RegExp = Biểu thức chính quy
 
+# 4. Các từ khóa & Toán tử đặc trưng của JS
+type of = Type of
+=== / !== = Strict Equality
+== / != = Loose Equality
+arrow function = () => {}
+
