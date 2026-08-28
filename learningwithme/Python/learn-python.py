@@ -92,3 +92,11 @@ raise = Raise
 <= = Less than or Equal to
 
 # 12. Toán tử gán kết hợp (Augmented Assignment Operators)
+= = Assignment
++= = Plus Equals
+-= = Minus Equals
+*= = Multiply Equals
+/= = Divide Equals
+//= = Floor Divide Equals
+
+
