@@ -56,9 +56,17 @@ struct = structure
 public = Public
 private = Private
 protected = Protected
-this = this
+this = This
 virtual = Virtual
 override = Override
+friend = Friend
+
+# 10. Cấu trúc dữ liệu & Thư viện chuẩn STL (Standard Template Library)
+std::vector = Dynamic Array
+std::pair / tuple = Pair / Tuple
+std::map = Map
+std::set = Set
+std::stack / queue: Stack / Queue
 
 
 
