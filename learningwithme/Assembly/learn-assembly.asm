@@ -55,3 +55,8 @@ MOVSB / MOVSW / MOVSD = MOVe String Byte / Word / Double Word
 STOSB / STOSD = STOre String Byte / Double Word
 REP = REPeat Prefix
 
+# 7. Cấu trúc Các Phân đoạn Code (Sections Directive)
+section .data = Data Section
+section .bss = Block Started by Symbol
+section .text = Text Section
+global = Global directive
