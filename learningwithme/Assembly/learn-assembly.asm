@@ -7,14 +7,14 @@ DQ / QWORD = Define Quad Word
 DT / TWORD = Define Ten Bytes
 
 # 2. Các loại Thanh ghi (Registers - "Biến" siêu tốc nằm ngay trong CPU)
-RAX = Accumulator
-RBX = Base
-RCX = Counter
-RDX = Data
-RSI = Source Index
-RDI = Destination Index
-RBP = Base Pointer
-RSP = Stack Pointer
+RAX = Register Accumulator
+RBX = Register Base
+RCX = Register Counter
+RDX = Register Data
+RSI = Register Source Index
+RDI = Register Destination Index
+RBP = Register Base Pointer
+RSP = Register Stack Pointer
 R8 --> R15
 
 # 3. Các lệnh thao tác dữ liệu cơ bản (Basic Instructions - Thay thế cho Hàm)
