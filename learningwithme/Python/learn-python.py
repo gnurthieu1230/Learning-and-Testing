@@ -125,4 +125,7 @@ with...as = Context Manager
 *agrs = Arguments
 **kwagrs = Keyword Arguments
 
+# 16. Trang trí & Tạo dữ liệu nâng cao (Decorators & Generators)
+@ = Decorators
+yield = Yield (Generator)
 
