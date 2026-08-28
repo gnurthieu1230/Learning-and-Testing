@@ -68,6 +68,12 @@ std::map = Map
 std::set = Set
 std::stack / queue: Stack / Queue
 
+# 11. Lập trình mẫu & Xử lý lỗi (Templates & Exceptions)
+template = Template
+type name / class = Type Name
+try / catch = Try / Catch
+throw = Throw
+
 
 
 
