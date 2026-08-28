@@ -71,3 +71,5 @@ break = Break
 cont / continue = Continue
 del = Delete
 assert = Assert
+try / except = Try / Exception
+raise = Raise
