@@ -35,6 +35,8 @@ isinstance = is instance
 issubclass = is subclass
 getattr() = get attribute
 setattr() = set attribute
+delattr() = delete attribute
+hasattr() = has attribute
 
 
 
