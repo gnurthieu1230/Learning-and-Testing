@@ -37,3 +37,7 @@ map() = Map
 filter() = Filter
 reduce() = Reduce
 forEach() = For Each
+
+# 6. Đóng gói & Phân rã dữ liệu (Destructuring & Spread)
+... = Spread / Rest Operator
+{a, b} = obj. = Destructuring
