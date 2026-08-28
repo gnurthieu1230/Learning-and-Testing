@@ -43,5 +43,13 @@ for / while / do = For / While / Do-While
 break / continue = Break / Continue
 goto = Goto
 
+# 8. Quản lý bộ nhớ & Con trỏ (Memory & Pointers - Đặc xăm C++)
+* = Pointer / Dereference
+& = Address-of / Reference
+new = New
+delete = Delete
+nullptr = Null Pointer
+
+
 
 
