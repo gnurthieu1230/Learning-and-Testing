@@ -1,4 +1,4 @@
-### tên biến và hàm viết tắt và đầy đủ trong ngôn ngữ lập trình python ###
+u### tên biến và hàm viết tắt và đầy đủ trong ngôn ngữ lập trình python ###
 
 var = variable
 int = integer
@@ -28,6 +28,7 @@ chr() = Characters
 hex(), oct(), bin() = hexadecimal, octal, binary
 pow() = power
 divmods() = division & modulus
+ascii() = ASCII
 
 
 
