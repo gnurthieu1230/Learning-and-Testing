@@ -85,3 +85,10 @@ raise = Raise
 ** = Exponentiation
 
 # 11. Toán tử so sánh (Comparison / Relational Operators)
+== = Equal to
+!= = Not Equal to
+>/< = Greater than / less than
+>= = Greater than or Equal to
+<= = Less than or Equal to
+
+# 12. Toán tử gán kết hợp (Augmented Assignment Operators)
