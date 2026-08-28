@@ -74,6 +74,10 @@ typename / class = Type Name
 try / catch = Try / Catch
 throw = Throw
 
+# 12. Con trỏ thông minh (Smart Pointers)
+std::unique_ptr = Unique Pointer
+std::shared_ptr = Shared Pointer
+std::weak_ptr = Weak Pointer
 
 
 
