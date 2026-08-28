@@ -14,4 +14,5 @@ auto = auto
 
 # 3. Hàm trong C++ (Functions)
 main() = main [hàm chính]
+return = return [hàm trả về]
 
