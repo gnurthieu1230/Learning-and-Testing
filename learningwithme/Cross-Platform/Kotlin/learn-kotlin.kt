@@ -23,3 +23,6 @@ vararg = Variable Arguments
 crossinline = Cross-inline
 noline = No-inline
 tailrec = Tail Recursion
+operator = Operator Overloading
+get() / set() = Getter / Setter
+Type.func() = Extension Function
