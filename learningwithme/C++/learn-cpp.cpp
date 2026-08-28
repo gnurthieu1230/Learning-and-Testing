@@ -84,6 +84,10 @@ std::thread
 std::mutex = Mutual Exclusion
 std::async / std::future
 
+# 14. Cú pháp C++20 / C++23 hiện đại
+concept / requires
+ranges
+
 
 
 
