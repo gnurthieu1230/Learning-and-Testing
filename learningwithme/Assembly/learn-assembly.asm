@@ -34,3 +34,11 @@ JG / JL = Jump Greater / Jump Less
 CALL / RET = Call subroutine / Return
 INT / SYSCALL = Interrupt / System Call
 NOP = No Operation
+
+# 4. Nhóm Lệnh Logic & Phép tính Bit (Bitwise Instructions)
+AND = Bitwise AND
+OR = Bitwise OR
+XOR = Bitwise EXclusive OR
+NOT = Bitwise NOT
+SHL / SHR = Shift Horizontal Left/Right
+
