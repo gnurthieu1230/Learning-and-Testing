@@ -45,3 +45,9 @@ mod = Module
 use = Use
 self / Self = Self
 
+# 8. Xử lý lỗi ngắn gọn & Bất đồng bộ (Error Handling & Async)
+? = Question Mark Operator
+panic! = Panic Macro
+async / .await = Async / Await
+
+
