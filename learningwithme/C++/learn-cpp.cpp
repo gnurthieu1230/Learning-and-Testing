@@ -79,6 +79,10 @@ std::unique_ptr = Unique Pointer
 std::shared_ptr = Shared Pointer
 std::weak_ptr = Weak Pointer
 
+# 13. Đa tiến trình & Xử lý song song (Multithreading)
+std::thread
+std::mutex = Mutual Exclusion
+std::async / std::future
 
 
 
