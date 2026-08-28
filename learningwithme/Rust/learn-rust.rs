@@ -14,3 +14,8 @@ f32 / f64 = Floating-point
 bool = Boolean
 char = Character
 
+# 3. Hàm & Macro cơ bản (Functions & Macros)
+fn = Function
+-> = Return Arrow
+println! = Print Line (Macro)
+
