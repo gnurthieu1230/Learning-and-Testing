@@ -14,4 +14,13 @@ frozenset = frozen set
 bytes = bytes
 bytearrays = bytes arrays
 memoryview = memory view
-nonetype = nonetype
+nonetype = none type
+def = define
+elif = else + if
+abs() = absolute
+len() = length
+inter() / next() = iterator
+
+
+
+
