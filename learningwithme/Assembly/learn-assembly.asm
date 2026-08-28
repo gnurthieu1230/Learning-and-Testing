@@ -66,3 +66,8 @@ XMM0 -> XMM15 = XMM Registers (128-bit)
 YMM / ZMM = YMM (256-bit), ZMM (512-bit)
 MOVSS / MOVSD = MOV Scalar Single / Double
 ADDSS / MULSS = ADD / MUL Scalar Single
+
+# 9. Các lệnh Đồng bộ & Tối ưu CPU (Special / System Instructions)
+CPUID = CPU IDentification
+RDTSC = ReaD Time-Stamp Counter
+LOCK = Lock Bus Prefix
