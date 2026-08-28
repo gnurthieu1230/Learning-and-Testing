@@ -60,3 +60,9 @@ section .data = Data Section
 section .bss = Block Started by Symbol
 section .text = Text Section
 global = Global directive
+
+# 8. Thao tác với Số thực (SIMD & Floating Point Registers)
+XMM0 -> XMM15 = XMM Registers (128-bit)
+YMM / ZMM = YMM (256-bit), ZMM (512-bit)
+MOVSS / MOVSD = MOV Scalar Single / Double
+ADDSS / MULSS = ADD / MUL Scalar Single
