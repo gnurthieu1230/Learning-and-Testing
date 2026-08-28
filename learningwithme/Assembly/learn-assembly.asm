@@ -21,9 +21,11 @@ R8 --> R15
 # 3. Các lệnh thao tác dữ liệu cơ bản (Basic Instructions - Thay thế cho Hàm)
 MOV = Move
 ADD / SUB = Add / Subtract
-MUL / DIV = Multiply / Divide
+MUL / IMUL = Multiply / Integer Multiply
+LEA = Load Effective Address
+DIV / IDIV = Divide / Integer Divide
 INC / DEC = Increment / Decrement
-PUSH / POP = Push / POP
+PUSH / POP = Push onto Stack / POP off Stack
 CMP = Compare
 JMP / JE / JNE = Jump / Jump Equal...
 CALL / RET = Call / Return
