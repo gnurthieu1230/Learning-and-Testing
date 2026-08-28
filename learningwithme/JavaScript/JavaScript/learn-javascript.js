@@ -13,3 +13,11 @@ Undefined = Chưa xác định
 Null = Rỗng
 Symbol = Biểu tượng
 BigInt = Số nguyên lớn
+
+# 3. Kiểu Tham chiếu (Reference Types / Objects)
+Object = Đối tượng
+Array = Mảng
+Function = Hàm
+Date = Ngày tháng
+RegExp = Biểu thức chính quy
+
