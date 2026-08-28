@@ -41,3 +41,9 @@ forEach() = For Each
 # 6. Đóng gói & Phân rã dữ liệu (Destructuring & Spread)
 ... = Spread / Rest Operator
 {a, b} = obj. = Destructuring
+
+# 7. Hướng đối tượng & Mô-đun (Class & ES Modules)
+class = Class
+import = Import
+export = Export
+
