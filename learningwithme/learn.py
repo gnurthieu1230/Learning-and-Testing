@@ -23,6 +23,11 @@ inter() / next() = iterator
 max() / min() = Maximum / Minimum
 repr() = representation
 enum = enumeration
+ord() = Ordinal
+chr() = Characters
+hex(), oct(), bin() = hexadecimal, octal, binary
+pow() = power
+divmods() = division & modulus
 
 
 
