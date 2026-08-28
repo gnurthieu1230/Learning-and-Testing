@@ -35,5 +35,13 @@ loop = Infinite Loop
 
 # 6. Kiểu an toàn bộ nhớ (Option & Result - Thay thế cho NULL và Exception)
 Option<T> --> Trường hợp: Some(value) / None
-Result<T,E> --> Trường hợp: OK(value) / err(error)
+Result<T,E> --> Trường hợp: OK(value) / Err(error)
+
+# 7. Khái niệm hướng đối tượng & Lập trình mô-đun trong Rust
+impl = Implementation
+trait = Trait
+pub = Public
+mod = Module
+use = Use
+self / Self = Self
 
