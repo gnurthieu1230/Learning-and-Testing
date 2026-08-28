@@ -71,3 +71,5 @@ ADDSS / MULSS = ADD / MUL Scalar Single
 CPUID = CPU IDentification
 RDTSC = ReaD Time-Stamp Counter
 LOCK = Lock Bus Prefix
+CLI / STI = Clear / Set Interrupt Flag
+HLT = HaL****T
