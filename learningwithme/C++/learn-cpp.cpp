@@ -16,3 +16,12 @@ auto = auto
 main() = main [hàm chính]
 return = return [hàm trả về]
 
+# 4. Từ khóa bổ trợ cho Biến (Variable Modifiers & Specifiers)
+const = Constant 
+constexpr = Constant Expression 
+static = Static
+unsigned = Unsigned
+signed = Signed
+short / long = Short / Long Integer
+
+
