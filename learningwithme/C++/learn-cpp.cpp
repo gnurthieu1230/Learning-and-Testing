@@ -70,7 +70,7 @@ std::stack / queue: Stack / Queue
 
 # 11. Lập trình mẫu & Xử lý lỗi (Templates & Exceptions)
 template = Template
-type name / class = Type Name
+typename / class = Type Name
 try / catch = Try / Catch
 throw = Throw
 
