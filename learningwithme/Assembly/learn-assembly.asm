@@ -41,4 +41,8 @@ OR = Bitwise OR
 XOR = Bitwise EXclusive OR
 NOT = Bitwise NOT
 SHL / SHR = Shift Horizontal Left/Right
+ROL / ROR = ROtate Left/Right
+TEST = Test bits
+
+
 
