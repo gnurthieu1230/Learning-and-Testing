@@ -19,3 +19,8 @@ fn = Function
 -> = Return Arrow
 println! = Print Line (Macro)
 
+# 4. Quyền sở hữu & Vay mượn (Ownership, Borrowing & Lifetimes - Linh hồn của Rust)
+& = Reference / Borrow
+&mut = Mutable Reference
+move = Move
+' = Lifetime Specifier
