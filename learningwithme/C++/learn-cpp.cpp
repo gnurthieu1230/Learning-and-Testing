@@ -50,6 +50,18 @@ new = New
 delete = Delete
 nullptr = Null Pointer
 
+# 9. Lập trình hướng đối tượng (OOP - Object-Oriented Programming)
+class = Class
+struct = structure
+public = Public
+private = Private
+protected = Protected
+this = this
+virtual = Virtual
+override = Override
+
+
+
 
 
 
