@@ -73,3 +73,15 @@ del = Delete
 assert = Assert
 try / except = Try / Exception
 raise = Raise
+
+### Toán Tử (Operators) ###
+# 10. Toán tử số học (Arithmetic Operators)
++ = addition
+- = subtraction
+* = Multiplication
+/ = Division
+// = Floor Division
+% = Modulo / Modulus
+** = Exponentiation
+
+# 11. Toán tử so sánh (Comparison / Relational Operators)
