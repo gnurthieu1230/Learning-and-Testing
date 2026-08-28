@@ -50,4 +50,8 @@ CF = Carry Flag
 SF = Sign Flag
 OF = Overflow Flag
 
+# 6. Nhóm Lệnh Thao tác Chuỗi & Bộ nhớ (String / Memory Instructions)
+MOVSB / MOVSW / MOVSD = MOVe String Byte / Word / Double Word
+STOSB / STOSD = STOre String Byte / Double Word
+REP = REPeat Prefix
 
