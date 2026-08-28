@@ -44,5 +44,10 @@ SHL / SHR = Shift Horizontal Left/Right
 ROL / ROR = ROtate Left/Right
 TEST = Test bits
 
+# 5. Các Cờ hiệu Thanh ghi (CPU Flags - Thanh ghi RFLAGS)
+ZF = Zero Flag
+CF = Carry Flag
+SF = Sign Flag
+OF = Overflow Flag
 
 
