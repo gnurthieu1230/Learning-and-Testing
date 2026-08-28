@@ -111,4 +111,10 @@ in = Membership (In)
 not in = Membership (Not In)
 
 # 14. Toán tử Bitwise (Thao tác trên bit nhị phân)
+& = Bitwise AND
+| = Bitwise OR
+^ = Bitwise XOR
+~ = Bitwise NOT
+<< = Bitwise Left Shift
+>> = Bitwise Right Shift
 
