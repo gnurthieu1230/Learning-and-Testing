@@ -105,5 +105,10 @@ raise = Raise
 and = Logical AND
 or = Logical OR
 not = Logical NOT
-is = Identity (is)
+is = Identity (Is)
+is not = Identity (Is Not)
+in = Membership (In)
+not in = Membership (Not In)
+
+# 14. Toán tử Bitwise (Thao tác trên bit nhị phân)
 
