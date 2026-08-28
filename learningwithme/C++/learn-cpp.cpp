@@ -30,4 +30,9 @@ cout = Character Output
 cerr = Character Error
 endl = End Line
 
+# 6. Phạm vi & Không gian tên (Namespaces & Scope)
+namespace = Name Space
+using = Using
+:: = Scope Resolution Operators
+
 
