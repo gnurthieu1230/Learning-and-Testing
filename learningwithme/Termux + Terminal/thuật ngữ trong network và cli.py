@@ -37,5 +37,12 @@
 32. PSK = Pre-Shared Key
 33. WEP = Wired Equivalent Privacy
 34. 802.11x = IEEE 802.11
-35.
+35. 802.11b = Wi-Fi 1
+36. 802.11a = Wi-Fi 2
+37. 802.11g = Wi-Fi 3
+38. 802.11n = Wi-Fi 4
+39. 802.11ac = Wi-Fi 5
+40. 802.11ax = Wi-Fi 6 / 6E
+41. 802.11be = Wi-Fi 7
+42. WLAN = 
 ---------------------------------------
