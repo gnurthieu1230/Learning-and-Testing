@@ -109,4 +109,5 @@
 104. Modbus = ...
 105. PROFINET = Process Field Nét
 106. BACnet = Building Automation and Control network
+107. TTL = Time To Live
 ---------------------------------------
