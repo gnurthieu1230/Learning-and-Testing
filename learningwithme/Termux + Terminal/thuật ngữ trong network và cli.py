@@ -75,5 +75,8 @@
 70. LDAP = Lightweight Directory Access Protocol
 71. Ethernet = IEEE 802.3 Standard
 72. Wi-Fi = Wireless-Fidelity (IEEE 802.11)
-
+73. PPP = Point-to-Point Protocol
+74. LLC = Logical Link Control
+75. VLAN = Virtual Local Area Network (IEEE 802.1Q)
+76. STP = Spanning Tree Protocol
 ---------------------------------------
