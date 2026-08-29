@@ -119,4 +119,7 @@
 114. ECC = Elliptic Curve Cryptography
 115. PGP = Pretty Good Privacy
 116. GPG = GNU Privacy Guard
+117. Wireguard = Wireguard
+118. ChaCha20 = ChaCha20
+119. MSCHAPv2 = Microsoft Challange Handshake Authentication Protocol version 2
 ---------------------------------------
