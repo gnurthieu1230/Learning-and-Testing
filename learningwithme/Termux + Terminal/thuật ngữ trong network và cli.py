@@ -35,5 +35,5 @@
 30. DUID = DHCP Unique Identifier
 31. ISP = Internet Service Provider
 32. PSK = Pre-Shared Key
-33. WEP = 
+33. WEP = Wired Equivalent Privacy
 ---------------------------------------
