@@ -1,0 +1,6 @@
+### Hướng dẫn làm một file Markdown đẹp ###
+
+1. # :Tạo tiêu đề lớn nhất (mức 1)
+2. ## --> ###### :Tạo tiêu đề từ mức 2 đến mức 6 (giảm dần)
+3. * hoặc _ :Tạo chữ in nghiêng
+4. 
