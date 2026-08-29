@@ -30,5 +30,6 @@
 25. DMZ = Demilitarized Zone
 26. SLAAC = Stateless Address Autoconfiguration
 27. DHCPv6 = Dynamic Host Configuration Protocol verSion 6
-28. PPPoE = 
+28. PPPoE = Point-to-Point over Ethernet
+29. PPPoEv6 = Point-to-Point over Ethernet verSion 6
 ---------------------------------------
