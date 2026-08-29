@@ -11,4 +11,11 @@
 9. Số. :Tạo danh sách đánh số
 10. - [] :Tạo ô tick chưa hoàn thành
 11. - [x] :Tạo ô tick đã hoàn thành
-12. [Tên] [Link] :Tạo đường dẫn liên kết
+12. [Tên] (Link) :Tạo đường dẫn liên kết
+13. ![Mô tả] (Link) :chèn hình ảnh
+14. > :Tạo khối trích dẫn
+15. ``` :Tạo khối mã lập trình nhiều dòng
+16. --- hoặc `***` :Tạo đường kẻ ngang phân cách
+17. `|` :Chia cột trong bảng
+18. `-` :Chia hàng tiêu đề trong bảng
+19. `` :Giữ nguyên kí hiệu gốc, không chạy định dạng
