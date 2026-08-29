@@ -51,5 +51,13 @@ arp -a hoặc ip neighbor = Xem danh sách các thiết bị (Địa chỉ IP v�
 dig [Domain] = Tra cứu chi tiết các bản ghi DNS (A, CNAME,MX,TXT,...)
 dig [Domain] ANY = Lấy tất cả thông tin DNS có sẵn
 nslookup [Domain] = Công cụ hỏi đáp máy chủ DNS nhanh gọn
-whois [Domain] = 
+whois [Domain] = Tra cứu thông tin chủ sở hữu tên miền, ngày đăng ký, ngày hết hạn và nhà cung cấp
+
+6. Bắt & Phân tích gói tin (Packet Sniffing)
+tcpdump = công cụ bắt gói tin trên dòng lệnh
+tcpdump -i any = Bắt toàn bộ dữ liệu qua tất cả các card mạng
+tcpdump port 80 = Chỉ bắt các dữ liệu đi qua cổng web HTTP (Port 80)
+tshark = Trình phân tích gói tin trên dòng lệnh char Wireshark
+
+7. 
 
