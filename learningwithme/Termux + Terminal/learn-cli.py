@@ -67,4 +67,4 @@ ssh-keygen = Tạo cặp khoá (Public/Private Key) để đăng nhập máy ch�
 8. Các lệnh tương tác với Android (Gói termux-api)
 termux-wifi-connectioninfo = Hiện thị thông tin chi tiết về mạng Wifi đang kết nối (BSSID, SSID, tốc độ liên kêt, tần số, địa chỉ IP, tín hiệu RSSI)
 termux-wifi-scaninfo = Quét và hiện thị  danh sách tất cả các mạng Wifi xung quanh kèm cường độ sóng
-termux-telephong-deviceinfo = Xem thông tin mạng dữ liệu di động (SIM, nhà mạng, loại mạng 3G/LTE/4G/5G, trạng thái data)
+termux-telephony-deviceinfo = Xem thông tin mạng dữ liệu di động (SIM, nhà mạng, loại mạng 3G/LTE/4G/5G, trạng thái data)
