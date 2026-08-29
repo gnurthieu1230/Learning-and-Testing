@@ -29,7 +29,7 @@
 24. DHCP = Dynamic Host Configuration Protocol 
 25. DMZ = Demilitarized Zone
 26. SLAAC = Stateless Address Autoconfiguration
-27. DHCPv6 = Dynamic Host Configuration Protocol verSion 6
+27. DHCPv6 = Dynamic Host Configuration Protocol version 6
 28. PPPoE = Point-to-Point Protocol over Ethernet
-29. PPPoEv6 = Point-to-Point Protocol over Ethernet version 6
+29. PPPoEv6 = Point-to-Point Protocol over Ethernet IPv6
 ---------------------------------------
