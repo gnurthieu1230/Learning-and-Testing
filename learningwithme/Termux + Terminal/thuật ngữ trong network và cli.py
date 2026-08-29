@@ -36,4 +36,6 @@
 31. ISP = Internet Service Provider
 32. PSK = Pre-Shared Key
 33. WEP = Wired Equivalent Privacy
+34. 802.11x = IEEE 802.11
+35.
 ---------------------------------------
