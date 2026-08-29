@@ -54,4 +54,7 @@
 49. IMAP = Internet Message Access Protocol
 50. SSH = Secure Shell
 51. Telnet = Teletype Network
+52. SNMP = Simple Network Management Protocol
+53. NTP = Network Time Protocol
+54. SCTP = 
 ---------------------------------------
