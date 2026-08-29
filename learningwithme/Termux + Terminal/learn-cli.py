@@ -4,7 +4,8 @@
           ------------------
 1. WAN = Wide Area Network
 2. LAN = Local Area Network
-3. TCP = Transmission 
+3. TCP = Transmission Control Protocol
+4. UDP = User Data
 ---------------------------------------
 
 => Termux
