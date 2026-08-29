@@ -31,4 +31,8 @@
 29. |: hoặc:\| hoặc :-: :Căn trái, căn phải, căn giữa cột trong bảng
 kbd trong cặp <kbd>Chữ</kbd> :Hiển thị nút phím bàn phím
 30. :[Loại] :Chèn biểu tượng cảm xúc (tùy nền tảng hỗ trợ)
-31. [[Tên trang]] :Tạo liên kết nội bộ giữa các trang
+31. [[Tên trang]] :Tạo liên kết nội bộ giữa các trang (Obsidan, Notion)
+32. !! hoặc ::: spoiler :Ẩn nội đứng cảnh báo, gập mở (Spoiler, tùy ứng dụng)
+33. %% Nội dung %% :Tạo ghi chú ẩn riêng cho ứng dụng Obsidan
+34. [Tên]: [URL] :Khai báo link ẩn để gọi lại đoạn sau (Reference link)
+35. [^1]: Nội dung :Định nghĩa nội dung cho chú thích chân trang ở cuối bài
