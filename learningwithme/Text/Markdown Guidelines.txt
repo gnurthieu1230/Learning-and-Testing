@@ -3,4 +3,12 @@
 1. # :Tạo tiêu đề lớn nhất (mức 1)
 2. ## --> ###### :Tạo tiêu đề từ mức 2 đến mức 6 (giảm dần)
 3. * hoặc _ :Tạo chữ in nghiêng
-4. 
+4. ** hoặc __ :Tạo chữ in đậm
+5. *** :Vừa tạo chữ in đậm và in nghiêng
+6. ~~ :Tạo chữ gạch ngang
+7. ` :Tạo chữ mã nguồn dạng code ngắn
+8. - hoặc * hoặc + :Tạo đánh sách gạch đầu dòng
+9. Số. :Tạo danh sách đánh số
+10. - [] :Tạo ô tick chưa hoàn thành
+11. - [x] :Tạo ô tick đã hoàn thành
+12. [Tên] [Link] :Tạo đường dẫn liên kết
