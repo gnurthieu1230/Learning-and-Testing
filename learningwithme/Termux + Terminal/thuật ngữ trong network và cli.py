@@ -103,5 +103,6 @@
 98. VXLAN = Virtual Extensible Local Area Network
 99. LoRaWAN = Long Range Wide Area Network
 100. 6LoWPAN = Internet Protocol version 6 over Low-Power Wireless Personal Area Network (IPv6 over Low-Power Wireless Personal Area Network)
-
+101. IS-IS = Intermediate System to Intermediate System
+102. iSCSI = Internet Small Computer System Interface
 ---------------------------------------
