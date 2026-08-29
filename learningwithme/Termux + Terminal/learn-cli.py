@@ -13,8 +13,8 @@
 9. IPv4 = Internet Protocol version 4
 10. IPv6 = Internet Protocol version 6
 11. DNS = Domain Name Server
-12. BSSID =
-13. SSID =
+12. BSSID = Basic Service Set Identifier
+13. SSID = Service Set Identifier
 14. RSSI = 
 15. VPN = Virtual Private Network
 16. APN = Access Point Name
