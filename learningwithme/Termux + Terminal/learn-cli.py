@@ -5,7 +5,17 @@
 1. WAN = Wide Area Network
 2. LAN = Local Area Network
 3. TCP = Transmission Control Protocol
-4. UDP = User Data
+4. UDP = User Datagram Protocol
+5. IP = Internet Protocol
+6. UPnP =
+7. NAT =
+8. CGNAT =
+9. IPv4 = Internet Protocol version 4
+10. IPv6 = Internet Protocol version 6
+11. DNS = Domain Name Server
+12. BSSID =
+13. SSID =
+14. RSSI = 
 ---------------------------------------
 
 => Termux
