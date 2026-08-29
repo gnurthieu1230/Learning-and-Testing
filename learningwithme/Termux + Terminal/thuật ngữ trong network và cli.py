@@ -125,4 +125,9 @@
 120. PEAP = Protected Extensible Authentication Protocol
 121. EAP-TLS = Extensible Authentication Protocol-Transport Layer Security
 122. PQC = Post-Quantum Cryptography
+123. IDEA = International Data Encryption Algorithm
+124. blowfish = blowfish
+125. twofish = twofish
+126. Camellia = Camellia
+127. SEED = SEED
 ---------------------------------------
