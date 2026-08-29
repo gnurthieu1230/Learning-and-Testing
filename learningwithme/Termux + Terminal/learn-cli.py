@@ -24,6 +24,7 @@
 20. WPA3 =
 21. TKIP =
 22. AES =
+23. MAC = Media Access Control Address
 ---------------------------------------
 
 => Termux
