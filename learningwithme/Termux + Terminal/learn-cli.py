@@ -68,3 +68,8 @@ ssh-keygen = Tạo cặp khoá (Public/Private Key) để đăng nhập máy ch�
 termux-wifi-connectioninfo = Hiện thị thông tin chi tiết về mạng Wifi đang kết nối (BSSID, SSID, tốc độ liên kêt, tần số, địa chỉ IP, tín hiệu RSSI)
 termux-wifi-scaninfo = Quét và hiện thị  danh sách tất cả các mạng Wifi xung quanh kèm cường độ sóng
 termux-telephony-deviceinfo = Xem thông tin mạng dữ liệu di động (SIM, nhà mạng, loại mạng 3G/LTE/4G/5G, trạng thái data)
+
+9. Tạo Máy chủ Mạng nhanh (Local Web / File Server)
+python -m http.server [Port] = Bật máy chủ HTTP siêu tốc bằng Python
+php -S [IP]:[Port] = Chạy máy chủ kiểm thử PHP trực tiếp bằng Termux
+busybox httpd -p [Port] = Tạo webserver siêu nhẹ thông qua công cụ busybox
