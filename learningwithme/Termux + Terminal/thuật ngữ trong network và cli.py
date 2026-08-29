@@ -110,4 +110,7 @@
 105. PROFINET = Process Field Nét
 106. BACnet = Building Automation and Control network
 107. TTL = Time To Live
+108. OpenVPN = Open Source Virtual Private Network
+109. SSTP = Secure Socket Tunneling Protocol
+110. IKEv2 = Internet Key Exchange version 2
 ---------------------------------------
