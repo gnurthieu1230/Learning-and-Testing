@@ -89,4 +89,6 @@
 84. SDP = Session Description Protocol
 85. WebRTC = Web Real-Time Communication
 86. CoAP = Constrained Application Protocol
+87. AMQP = Advanced Messages Queuing Protocol
+88. XMPP = Extensible Messaging and Presence Protocol
 ---------------------------------------
