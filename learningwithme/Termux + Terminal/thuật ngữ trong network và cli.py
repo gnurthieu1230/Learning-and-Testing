@@ -84,4 +84,9 @@
 79. RTP = Real-time Transport Protocol
 80. RTCP = Real-time Transport Control Protocol
 81. RTMP = Real-time Messaging Protocol
+82. SIP = Session Initiation Protocol
+83. H.323 = Video
+84. SDP = Session Description Protocol
+85. WebRTC = Web Real-Time Communication
+86. CoAP = Constrained Application Protocol
 ---------------------------------------
