@@ -56,5 +56,9 @@
 51. Telnet = Teletype Network
 52. SNMP = Simple Network Management Protocol
 53. NTP = Network Time Protocol
-54. SCTP = 
+54. SCTP = Stream Control Transmission Protocol
+55. QUIC = Quick UDP Internet Connection
+56. ICMP = Internet Control Message Protocol
+57. ARP = Address Resolution Protocol
+58. RARP = Reverse Address Resolution Protocol
 ---------------------------------------
