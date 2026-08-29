@@ -139,5 +139,6 @@
 134. MD5 = Message Digest 5
 135. bcrypt / Argon2 = 
 136. ML-KEM = Module-Lattice-Based Key Encapsulation Mechanism
-
+137. ML-DSA = Module-Lattice-Based Digital Signature Algorithm 
+138. SLH-DSA = Stateless Hash-Based Digital Signature Algorithm
 ---------------------------------------
