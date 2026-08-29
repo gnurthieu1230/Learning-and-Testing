@@ -130,4 +130,6 @@
 125. twofish = twofish
 126. Camellia = Camellia
 127. SEED = SEED
+128. RC4 = Rivest Cipher 4
+129. Salsa20 = Salsa20
 ---------------------------------------
