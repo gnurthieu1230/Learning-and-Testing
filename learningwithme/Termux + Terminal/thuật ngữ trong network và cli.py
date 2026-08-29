@@ -101,5 +101,7 @@
 96. L2TP = Layer 2 Tunneling Protocol
 97. PPTP = Point-to-Point Tunneling Protocol
 98. VXLAN = Virtual Extensible Local Area Network
+99. LoRaWAN = Long Range Wide Area Network
+100. 6LoWPAN = Internet Protocol version 6 over Low-Power Wireless Personal Area Network (IPv6 over Low-Power Wireless Personal Area Network)
 
 ---------------------------------------
