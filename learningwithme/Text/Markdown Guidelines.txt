@@ -30,3 +30,5 @@
 28. ::: {thuộc tính} :Tạo khốI container tùy chỉnh (Pandoc Markdown)
 29. |: hoặc:\| hoặc :-: :Căn trái, căn phải, căn giữa cột trong bảng
 kbd trong cặp <kbd>Chữ</kbd> :Hiển thị nút phím bàn phím
+30. :[Loại] :Chèn biểu tượng cảm xúc (tùy nền tảng hỗ trợ)
+31. [[Tên trang]] :Tạo liên kết nội bộ giữa các trang
