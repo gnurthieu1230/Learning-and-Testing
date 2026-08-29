@@ -28,4 +28,7 @@
 23. MAC = Media Access Control Address
 24. DHCP = Dynamic Host Configuration Protocol 
 25. DMZ = Demilitarized Zone
+26. SLAAC = Stateless Address Autoconfiguration
+27. DHCPv6 = Dynamic Host Configuration Protocol verSion 6
+28. PPPoE = 
 ---------------------------------------
