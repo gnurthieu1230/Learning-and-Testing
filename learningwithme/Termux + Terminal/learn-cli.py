@@ -22,8 +22,8 @@
 18. WPA =
 19. WPA2 =
 20. WPA3 =
-21. TKIP =
-22. AES =
+21. TKIP = Temporal Key Integrity Protocol
+22. AES = Advanced Encryption Standard
 23. MAC = Media Access Control Address
 ---------------------------------------
 
