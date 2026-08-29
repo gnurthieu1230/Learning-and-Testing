@@ -30,4 +30,9 @@ termux-setup-storage = Yêu cầu cấp quyền bộ nhớ điện thoại
 df -h = Kiểm tra dung lượng bộ nhớ còn trống trên thiết bị
 du -sh = Xem dụng lượng thực tế của một thư mục
 
-4. 
+4. Mạng và Giám sát Hệ thống
+ipconfig hoặc ip a = Xem địa chỉ IP (Wifi/3G/4G/5G) trên điện thoại
+ping [domain/IP] = Kiểm tra độ trễ và kết nối đến một trang web
+curl [URL] hoặc wget [URL] = Tải dữ liệu hoặc nhận nội dung từ một đường link web
+top hoặc htop = Xem tình trạng CPU/RAM và các tiến trình đang chạy theo thời gian thực
+netstat hoặc ss = Hiển thị các cổng (port) đang mở và kết nối mạng
