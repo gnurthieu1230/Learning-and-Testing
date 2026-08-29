@@ -1,6 +1,10 @@
 ### Tất cả các lệnh trong Termux (Android), Terminal (Windows, Linux, MacOS), Powershell (Windows)
 ---------------------------------------
-
+    THUẬT NGỮ TRONG NETWORK VÀ CLI
+          ------------------
+1. WAN = Wide Area Network
+2. LAN = Local Area Network
+3. TCP = Transmission 
 ---------------------------------------
 
 => Termux
