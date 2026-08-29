@@ -61,4 +61,11 @@
 56. ICMP = Internet Control Message Protocol
 57. ARP = Address Resolution Protocol
 58. RARP = Reverse Address Resolution Protocol
+59. IPSec = Internet Protocol Security
+60. IGMP = Internet Group Management Protocol
+61. RIP = Routing Information Protocol
+62. OSPF = Open Shortest Path First
+63. BGP = Border Gateway Protocol
+64. EIGRP = Enhanced Interior Gateway Routing Protocol
+
 ---------------------------------------
