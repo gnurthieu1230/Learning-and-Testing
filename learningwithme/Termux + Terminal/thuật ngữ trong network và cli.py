@@ -72,5 +72,8 @@
 67. RADIUS = Remote Authentication Dial-In User Service
 68. TACACS+ = Terminal Access Controller Access-Control System Plus
 69. Kerberos = ...
-70. 
+70. LDAP = Lightweight Directory Access Protocol
+71. Ethernet = IEEE 802.3 Standard
+72. Wi-Fi = Wireless-Fidelity (IEEE 802.11)
+
 ---------------------------------------
