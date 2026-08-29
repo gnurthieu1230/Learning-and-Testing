@@ -73,3 +73,9 @@ termux-telephony-deviceinfo = Xem thông tin mạng dữ liệu di động (SIM,
 python -m http.server [Port] = Bật máy chủ HTTP siêu tốc bằng Python
 php -S [IP]:[Port] = Chạy máy chủ kiểm thử PHP trực tiếp bằng Termux
 busybox httpd -p [Port] = Tạo webserver siêu nhẹ thông qua công cụ busybox
+
+10. Lệnh Mạng hệ thống Android (Lệnh nội bộ hệ thống)
+getprop | grep net = Xem toàn bộ thuộc tính cấu hình mạng ẩn của Android (DNS Server hệ thống, Card mạng mặc định,...)
+netcfg = Hiện thị danh sách Card mạng và trạng thái UP/DOWN (trên bản Android cũ)
+ip link = Quản lý, bật/tắt hoặc xem cấu hình chi tiết của từng card mạng (wlan0, rmnet, lộ)
+ip addr = Xem toàn bộ địa chỉ IPv4/IPv6 gán cho từng interface
