@@ -122,4 +122,6 @@
 117. Wireguard = Wireguard
 118. ChaCha20 = ChaCha20
 119. MSCHAPv2 = Microsoft Challange Handshake Authentication Protocol version 2
+120. PEAP = Protected Extensible Authentication Protocol
+121. EAP-TLS = Extensible Authentication Protocol-Transport Layer Security
 ---------------------------------------
