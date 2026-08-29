@@ -79,3 +79,8 @@ getprop | grep net = Xem toàn bộ thuộc tính cấu hình mạng ẩn của 
 netcfg = Hiện thị danh sách Card mạng và trạng thái UP/DOWN (trên bản Android cũ)
 ip link = Quản lý, bật/tắt hoặc xem cấu hình chi tiết của từng card mạng (wlan0, rmnet, lộ)
 ip addr = Xem toàn bộ địa chỉ IPv4/IPv6 gán cho từng interface
+
+11. Công cụ Proxy, Tunnel & Fake IP
+tor = Khởi chạy mạng ẩn danh Tor Network
+proxychains-ng / proxychains4 [Lệnh] = Ép một lệnh chạy qua mạng Proxy / SOCKS5 để ẩn danh
+
