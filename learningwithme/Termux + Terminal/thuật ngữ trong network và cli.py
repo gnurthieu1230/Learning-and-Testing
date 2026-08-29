@@ -124,4 +124,5 @@
 119. MSCHAPv2 = Microsoft Challange Handshake Authentication Protocol version 2
 120. PEAP = Protected Extensible Authentication Protocol
 121. EAP-TLS = Extensible Authentication Protocol-Transport Layer Security
+122. PQC = Post-Quantum Cryptography
 ---------------------------------------
