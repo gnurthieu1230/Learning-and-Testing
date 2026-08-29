@@ -7,7 +7,7 @@
 3. TCP = Transmission Control Protocol
 4. UDP = User Datagram Protocol
 5. IP = Internet Protocol
-6. UPnP =
+6. UPnP = Universal Plug and Play
 7. NAT =
 8. CGNAT =
 9. IPv4 = Internet Protocol version 4
@@ -16,6 +16,8 @@
 12. BSSID =
 13. SSID =
 14. RSSI = 
+15. VPN = Virtual Private Network
+16. APN = Access Point Network
 ---------------------------------------
 
 => Termux
