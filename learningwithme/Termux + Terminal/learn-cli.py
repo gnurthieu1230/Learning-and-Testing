@@ -57,7 +57,9 @@ whois [Domain] = Tra cứu thông tin chủ sở hữu tên miền, ngày đăng
 tcpdump = công cụ bắt gói tin trên dòng lệnh
 tcpdump -i any = Bắt toàn bộ dữ liệu qua tất cả các card mạng
 tcpdump port 80 = Chỉ bắt các dữ liệu đi qua cổng web HTTP (Port 80)
-tshark = Trình phân tích gói tin trên dòng lệnh char Wireshark
+tshark = Trình phân tích gói tin trên dòng lệnh của Wireshark
 
-7. 
-
+7. Quản lý tải & Đổi quyền kết nối
+aria2c [URL] / aria2c -x16 [URL] = Bộ tải file đa luồng cực nhanh (nhanh hơn curl và wget)
+socat = Công cụ relay/chuyển tiếp giữa các cổng mạng hoặc giáo thức khác nhau (bản nâng cấp nâng cao của Netcat)
+ssh-keygen = Tạo cặp khoá (Public/Private Key) để đăng nhập máy chủ từ xa không cần gõ mật khẩu
