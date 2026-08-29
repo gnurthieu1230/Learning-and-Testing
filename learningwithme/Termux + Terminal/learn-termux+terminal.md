@@ -1,1 +1,0 @@
-### Tất cả các lệnh của Termux và Terminal, Powershell ###
