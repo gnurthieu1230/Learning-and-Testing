@@ -32,4 +32,6 @@
 27. DHCPv6 = Dynamic Host Configuration Protocol version 6
 28. PPPoE = Point-to-Point Protocol over Ethernet
 29. PPPoEv6 = Point-to-Point Protocol over Ethernet IPv6
+30. DUID = DHCP Unique Identifier
+31. ISP = Internet Service Provider
 ---------------------------------------
