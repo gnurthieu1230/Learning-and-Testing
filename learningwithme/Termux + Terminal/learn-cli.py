@@ -84,4 +84,7 @@ ip addr = Xem toàn bộ địa chỉ IPv4/IPv6 gán cho từng interface
 tor = Khởi chạy mạng ẩn danh Tor Network
 proxychains-ng / proxychains4 [Lệnh] = Ép một lệnh chạy qua mạng Proxy / SOCKS5 để ẩn danh
 ssh -N -D [Port] [User]@[Server] = Tạo một SOCKS5 Proxy cá nhân quả đường truyền SSH mã hoá
-ngrok hoặc cloudflared = 
+ngrok hoặc cloudflared = Công cụ đưa máy chủ mạng nội bộ (Localhost trên Termux) ra ngoài Internet công cộng để người khác truy cập
+
+12. Công cụ đo đạc & Bắn lượng truy cập (Traffic & Performance)
+speedtest-cli = Đo tốc độ (Download/Upload/Ping) trên môi trường giao diện dòng lệnh (CLI) Termux
