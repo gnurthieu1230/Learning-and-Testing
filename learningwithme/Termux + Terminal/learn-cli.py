@@ -42,3 +42,8 @@ nmap -O [IP] = Đoán hệ điều hành của máy đích
 nc hoặc ncat = ...
 nc -zv [IP] [Port] = Kiểm tra nhanh xem có một cổng cụ thể nào đang mở hay không
 nc -lvp [Port] = Mở một cổng trên máy mình để lắng nghe kết nối đến
+traceroute [Domain/IP] = Hiện thị đường đi gói tin từ máy mình sang máy đích qua từng router
+MTR [Domain/IP] = Kết hợp giữa ping và traceroute, cập nhật liên tục độ trễ và tỉ lệ mất gói tin theo thời gian thực
+route hoặc ip route = Xem và quản lý bảng định tuyến (Route Table) trên thiết bị
+arp -a hoặc ip neighbor = Xem danh sách các thiết bị (Địa chỉ IP và Địa chỉ MAC) đang nằm chung mạng Wifi/LAN
+
