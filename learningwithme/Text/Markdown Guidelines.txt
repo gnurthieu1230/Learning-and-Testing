@@ -19,3 +19,9 @@
 17. `|` :Chia cột trong bảng
 18. `-` :Chia hàng tiêu đề trong bảng
 19. `` :Giữ nguyên kí hiệu gốc, không chạy định dạng
+20. <URL> :Tự động tạo link bấm được trong web và địa chỉ email
+21. [^1]: Tạo chú thích chân trang (Foodnote)
+22. ~ :Tạo chữ viết xuống dưới (Subscript - Tùy trình đọc)
+23. ^ :Tạo chữ viết lên trên (Subscript - Tùy trình đọc)
+24. == :Tô sáng văn bản (Highlight ,- Tùy trình đọc)
+25. <br> :ngắt dòng cưỡng chế mà không tạo đoạn mới
