@@ -34,4 +34,6 @@
 29. PPPoEv6 = Point-to-Point Protocol over Ethernet IPv6
 30. DUID = DHCP Unique Identifier
 31. ISP = Internet Service Provider
+32. PSK = Pre-Shared Key
+33. WEP = 
 ---------------------------------------
