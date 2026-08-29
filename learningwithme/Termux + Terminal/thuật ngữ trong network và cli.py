@@ -137,7 +137,7 @@
 132. DSA = Digital Signature Algorithm
 133. SHA-256 / SHA-3 = Secure Hash Algorithm 
 134. MD5 = Message Digest 5
-135. bcrypt / Argon2 = 
+135. bcrypt / Argon2 = blowfish crypt (Blowfish key derivation function) / Argon2
 136. ML-KEM = Module-Lattice-Based Key Encapsulation Mechanism
 137. ML-DSA = Module-Lattice-Based Digital Signature Algorithm 
 138. SLH-DSA = Stateless Hash-Based Digital Signature Algorithm
