@@ -23,3 +23,11 @@ cp [file_nguồn] [file_đích] = Sao chép (copy) file
 cp -r [thư_mục_nguồn] [thư_mục_đích] = Sao chép (copy) thư mục
 mv [tên_cũ] [tên_mới] = Di chuyển file/thư mục hoặc đổi tên file/thư mục
 touch [tên_file] = Tạo một file trống mới
+cat [tên_file] = Xem nhanh nội dung của một file văn bản
+
+3. Quản lý Bộ nhớ và Cấp quyền Android
+termux-setup-storage = Yêu cầu cấp quyền bộ nhớ điện thoại
+df -h = Kiểm tra dung lượng bộ nhớ còn trống trên thiết bị
+du -sh = Xem dụng lượng thực tế của một thư mục
+
+4. 
