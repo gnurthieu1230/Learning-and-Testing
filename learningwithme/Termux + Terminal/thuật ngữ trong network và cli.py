@@ -67,5 +67,8 @@
 62. OSPF = Open Shortest Path First
 63. BGP = Border Gateway Protocol
 64. EIGRP = Enhanced Interior Gateway Routing Protocol
-
+65. TLS = Transport Layer Security
+66. SSL = Secure Sockets Layer
+67. RADIUS = Remote Authentication Dial-In User Service
+68.
 ---------------------------------------
