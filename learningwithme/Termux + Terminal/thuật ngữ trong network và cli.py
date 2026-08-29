@@ -96,4 +96,10 @@
 91. SAML = Security Assertion Markup Language
 92. OAuth 2.0 = Open Authorization 2.0
 93. OIDC = OpenID Connect
+94. MPLS = Multiprotocol Label Switching
+95. ICMPv6 = Internet Control Messages Protocol version 6
+96. L2TP = Layer 2 Tunneling Protocol
+97. PPTP = Point-to-Point Tunneling Protocol
+98. VXLAN = Virtual Extensible Local Area Network
+
 ---------------------------------------
