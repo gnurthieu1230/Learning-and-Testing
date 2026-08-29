@@ -113,4 +113,10 @@
 108. OpenVPN = Open Source Virtual Private Network
 109. SSTP = Secure Socket Tunneling Protocol
 110. IKEv2 = Internet Key Exchange version 2
+111. DES = Data Encryption Standard
+112. 3DES = Triple Data Encryption Standard
+113. RSA = Rives-Shamir-Adleman
+114. ECC = Elliptic Curve Cryptography
+115. PGP = Pretty Good Privacy
+116. GPG = GNU Privacy Guard
 ---------------------------------------
