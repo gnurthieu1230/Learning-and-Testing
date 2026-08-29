@@ -15,9 +15,15 @@
 11. DNS = Domain Name Server
 12. BSSID = Basic Service Set Identifier
 13. SSID = Service Set Identifier
-14. RSSI = 
+14. RSSI = Received Signal Strength Indicator
 15. VPN = Virtual Private Network
 16. APN = Access Point Name
+17. WPS = 
+18. WPA =
+19. WPA2 =
+20. WPA3 =
+21. TKIP =
+22. AES =
 ---------------------------------------
 
 => Termux
