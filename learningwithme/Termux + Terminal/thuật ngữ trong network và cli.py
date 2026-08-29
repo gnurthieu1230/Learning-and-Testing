@@ -50,5 +50,6 @@
 45. FTP = File Transfer Protocol 
 46. SFTP = Secure File Transfer Protocol
 47. SMTP = Simple Mail Transfer Protocol
-
+48. POP3 = Post Office Protocol version 3
+49. IMAP = Internet Message Access Protocol
 ---------------------------------------
