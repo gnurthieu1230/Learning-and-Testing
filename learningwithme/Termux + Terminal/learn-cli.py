@@ -9,7 +9,7 @@
 5. IP = Internet Protocol
 6. UPnP = Universal Plug and Play
 7. NAT = Network Address Translation
-8. CGNAT =
+8. CGNAT = Carrier-Grade NAT
 9. IPv4 = Internet Protocol version 4
 10. IPv6 = Internet Protocol version 6
 11. DNS = Domain Name Server
