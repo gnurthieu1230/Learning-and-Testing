@@ -107,5 +107,6 @@
 102. iSCSI = Internet Small Computer System Interface
 103. FCIP = Fibre Channel over IP (Fibre Channel over Internet Protocol)
 104. Modbus = ...
-105. 
+105. PROFINET = Process Field Nét
+106. BACnet = Building Automation and Control network
 ---------------------------------------
