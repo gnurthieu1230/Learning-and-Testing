@@ -19,9 +19,9 @@
 15. VPN = Virtual Private Network
 16. APN = Access Point Name
 17. WPS = Wi-Fi Protected Setup
-18. WPA =
-19. WPA2 =
-20. WPA3 =
+18. WPA = Wi-Fi Protected Access
+19. WPA2 = Wi-Fi Protected Access 2
+20. WPA3 = Wi-Fi Protected Access 3
 21. TKIP = Temporal Key Integrity Protocol
 22. AES = Advanced Encryption Standard
 23. MAC = Media Access Control Address
