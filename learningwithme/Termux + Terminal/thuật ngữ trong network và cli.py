@@ -79,4 +79,5 @@
 74. LLC = Logical Link Control
 75. VLAN = Virtual Local Area Network (IEEE 802.1Q)
 76. STP = Spanning Tree Protocol
+77. MQTT = Messages Queuing Telemetry Transport
 ---------------------------------------
