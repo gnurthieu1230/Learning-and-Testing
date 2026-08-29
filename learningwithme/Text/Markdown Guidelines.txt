@@ -25,3 +25,8 @@
 23. ^ :Tạo chữ viết lên trên (Subscript - Tùy trình đọc)
 24. == :Tô sáng văn bản (Highlight ,- Tùy trình đọc)
 25. <br> :ngắt dòng cưỡng chế mà không tạo đoạn mới
+26. <!-- Nội dung --> :Tạo ghi chú ẩn (Không hiển thị ra màn hình)
+27. $$\text{phương trình}$$ :Viết công thức toán học (MathJax/LaTeX)
+28. ::: {thuộc tính} :Tạo khốI container tùy chỉnh (Pandoc Markdown)
+29. |: hoặc:\| hoặc :-: :Căn trái, căn phải, căn giữa cột trong bảng
+kbd trong cặp <kbd>Chữ</kbd> :Hiển thị nút phím bàn phím
