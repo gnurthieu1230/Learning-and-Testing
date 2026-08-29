@@ -44,5 +44,5 @@
 39. 802.11ac = Wi-Fi 5
 40. 802.11ax = Wi-Fi 6 / 6E
 41. 802.11be = Wi-Fi 7
-42. WLAN = 
+42. WLAN = Wireless Local Area Network
 ---------------------------------------
