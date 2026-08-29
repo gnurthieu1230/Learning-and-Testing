@@ -18,7 +18,7 @@
 14. RSSI = Received Signal Strength Indicator
 15. VPN = Virtual Private Network
 16. APN = Access Point Name
-17. WPS = 
+17. WPS = Wi-Fi Protected Setup
 18. WPA =
 19. WPA2 =
 20. WPA3 =
