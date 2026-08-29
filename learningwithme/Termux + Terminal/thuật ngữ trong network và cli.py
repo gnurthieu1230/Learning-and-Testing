@@ -26,4 +26,6 @@
 21. TKIP = Temporal Key Integrity Protocol
 22. AES = Advanced Encryption Standard
 23. MAC = Media Access Control Address
+24. DHCP = Dynamic Host Configuration Protocol 
+25. DMZ = Demilitarized Zone
 ---------------------------------------
