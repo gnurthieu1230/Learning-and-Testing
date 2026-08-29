@@ -30,9 +30,15 @@ termux-setup-storage = Yêu cầu cấp quyền bộ nhớ điện thoại
 df -h = Kiểm tra dung lượng bộ nhớ còn trống trên thiết bị
 du -sh = Xem dụng lượng thực tế của một thư mục
 
-4. Mạng và Giám sát Hệ thống
+4. Mạng và Giám sát Hệ thống,toàn bộ mạng
 ipconfig hoặc ip a = Xem địa chỉ IP (Wifi/3G/4G/5G) trên điện thoại
 ping [domain/IP] = Kiểm tra độ trễ và kết nối đến một trang web
 curl [URL] hoặc wget [URL] = Tải dữ liệu hoặc nhận nội dung từ một đường link web
 top hoặc htop = Xem tình trạng CPU/RAM và các tiến trình đang chạy theo thời gian thực
 netstat hoặc ss = Hiển thị các cổng (port) đang mở và kết nối mạng
+nmap [IP/Domain] = Công cụ dò quét cổng và dịch vụ
+nmap -sV [IP] = Quét các cổng đang mở và phát hiện các phiên bản dịch vụ đang chạy
+nmap -O [IP] = Đoán hệ điều hành của máy đích
+nc hoặc ncat = ...
+nc -zv [IP] [Port] = Kiểm tra nhanh xem có một cổng cụ thể nào đang mở hay không
+nc -lvp [Port] = Mở một cổng trên máy mình để lắng nghe kết nối đến
