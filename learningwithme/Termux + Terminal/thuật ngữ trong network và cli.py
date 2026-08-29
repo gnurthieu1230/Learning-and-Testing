@@ -137,4 +137,7 @@
 132. DSA = Digital Signature Algorithm
 133. SHA-256 / SHA-3 = Secure Hash Algorithm 
 134. MD5 = Message Digest 5
+135. bcrypt / Argon2 = 
+136. ML-KEM = Module-Lattice-Based Key Encapsulation Mechanism
+
 ---------------------------------------
