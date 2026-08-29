@@ -38,4 +38,4 @@ kbd trong cặp <kbd>Chữ</kbd> :Hiển thị nút phím bàn phím
 35. [^1]: Nội dung :Định nghĩa nội dung cho chú thích chân trang ở cuối bài
 36. kbd : (Định dạng HTML <kbd>Key</kbd>) Biểu thị phím tắt bàn phím
 37. sub / sup : (Định dạng HTML <sub> / <sup>) Viết chỉ số dưới / chỉ số trên chuẩn HTML
-section hoặc # trong link : [Tên](#ten-muc) Chèn link nhảy nhanh đến một mục trong cùng 1 bài
+38. section hoặc # trong link : [Tên](#ten-muc) Chèn link nhảy nhanh đến một mục trong cùng 1 bài
