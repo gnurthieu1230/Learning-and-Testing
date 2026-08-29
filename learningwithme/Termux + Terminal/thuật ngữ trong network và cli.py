@@ -132,4 +132,5 @@
 127. SEED = SEED
 128. RC4 = Rivest Cipher 4
 129. Salsa20 = Salsa20
+130. CAST-128 / CAST-256 = Carlisle Adams and Stafford Tavares Encryption Algorithm
 ---------------------------------------
