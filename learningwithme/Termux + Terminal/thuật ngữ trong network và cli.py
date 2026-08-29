@@ -70,5 +70,7 @@
 65. TLS = Transport Layer Security
 66. SSL = Secure Sockets Layer
 67. RADIUS = Remote Authentication Dial-In User Service
-68.
+68. TACACS+ = Terminal Access Controller Access-Control System Plus
+69. Kerberos = ...
+70. 
 ---------------------------------------
