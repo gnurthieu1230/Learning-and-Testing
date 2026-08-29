@@ -105,4 +105,7 @@
 100. 6LoWPAN = Internet Protocol version 6 over Low-Power Wireless Personal Area Network (IPv6 over Low-Power Wireless Personal Area Network)
 101. IS-IS = Intermediate System to Intermediate System
 102. iSCSI = Internet Small Computer System Interface
+103. FCIP = Fibre Channel over IP (Fibre Channel over Internet Protocol)
+104. Modbus = ...
+105. 
 ---------------------------------------
