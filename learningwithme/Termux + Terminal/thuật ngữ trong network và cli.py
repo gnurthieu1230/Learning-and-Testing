@@ -91,4 +91,9 @@
 86. CoAP = Constrained Application Protocol
 87. AMQP = Advanced Messages Queuing Protocol
 88. XMPP = Extensible Messaging and Presence Protocol
+89. Zigbee = IEEE 802.15.4 
+90. Z-Wave = Smartphone Protocol
+91. SAML = Security Assertion Markup Language
+92. OAuth 2.0 = Open Authorization 2.0
+93. OIDC = OpenID Connect
 ---------------------------------------
