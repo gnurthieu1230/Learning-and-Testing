@@ -47,3 +47,9 @@ MTR [Domain/IP] = Kết hợp giữa ping và traceroute, cập nhật liên t�
 route hoặc ip route = Xem và quản lý bảng định tuyến (Route Table) trên thiết bị
 arp -a hoặc ip neighbor = Xem danh sách các thiết bị (Địa chỉ IP và Địa chỉ MAC) đang nằm chung mạng Wifi/LAN
 
+5. Tra cứu DNS & Thông tin tên miền
+dig [Domain] = Tra cứu chi tiết các bản ghi DNS (A, CNAME,MX,TXT,...)
+dig [Domain] ANY = Lấy tất cả thông tin DNS có sẵn
+nslookup [Domain] = Công cụ hỏi đáp máy chủ DNS nhanh gọn
+whois [Domain] = 
+
