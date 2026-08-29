@@ -80,4 +80,8 @@
 75. VLAN = Virtual Local Area Network (IEEE 802.1Q)
 76. STP = Spanning Tree Protocol
 77. MQTT = Messages Queuing Telemetry Transport
+78. Websockets = ...
+79. RTP = Real-time Transport Protocol
+80. RTCP = Real-time Transport Control Protocol
+81. RTMP = Real-time Messaging Protocol
 ---------------------------------------
