@@ -1,7 +1,7 @@
 ### Tất cả các lệnh trong Termux (Android), Terminal (Windows, Linux, MacOS), Powershell (Windows)
------------------------------------------
+---------------------------------------
 
------------------------------------------
+---------------------------------------
 
 => Termux
 1. Quản lý gói phần mềm (APT / PKG)
