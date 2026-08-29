@@ -133,4 +133,8 @@
 128. RC4 = Rivest Cipher 4
 129. Salsa20 = Salsa20
 130. CAST-128 / CAST-256 = Carlisle Adams and Stafford Tavares Encryption Algorithm
+131. Diffie-Hellman = Diffie-Hellman Kết Exchange
+132. DSA = Digital Signature Algorithm
+133. SHA-256 / SHA-3 = Secure Hash Algorithm 
+134. MD5 = Message Digest 5
 ---------------------------------------
