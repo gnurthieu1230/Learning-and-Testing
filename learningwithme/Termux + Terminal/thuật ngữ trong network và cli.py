@@ -45,4 +45,10 @@
 40. 802.11ax = Wi-Fi 6 / 6E
 41. 802.11be = Wi-Fi 7
 42. WLAN = Wireless Local Area Network
+43. HTTP = Hypertext Transfer Protocol
+44. HTTPS = Hypertext Transfer Protocol Secure
+45. FTP = File Transfer Protocol 
+46. SFTP = Secure File Transfer Protocol
+47. SMTP = Simple Mail Transfer Protocol
+
 ---------------------------------------
