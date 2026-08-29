@@ -88,3 +88,6 @@ ngrok hoặc cloudflared = Công cụ đưa máy chủ mạng nội bộ (Localh
 
 12. Công cụ đo đạc & Bắn lượng truy cập (Traffic & Performance)
 speedtest-cli = Đo tốc độ (Download/Upload/Ping) trên môi trường giao diện dòng lệnh (CLI) Termux
+iperf3 = Công cụ đo băng thông giữa hai thiết bị trong mạng LAN/WAN
+hping3 = Công cụ tạo gói tin TCP/IP tùy chỉnh, thường dùng để kiểm thử độ bền hệ thống mạng hoặc firewall
+iftop / nethogs = Hiện thị lưu lượng mạng đang bị tiêu tốn bởi từng tiến trình hoặc ứng dụng cụ thể theo thời gian thực
